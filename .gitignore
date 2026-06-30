@@ -1,0 +1,27 @@
+# Python кэш
+pycache/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+venv/
+.env
+.venv/
+
+# Файлы настроек IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
+
+# Секретные ключи и конфиги
+config.py
+*.key
+*.pem
+
+# Uvicorn reload файлы
+*.db
+*.sqlite3
+
+*.dll
